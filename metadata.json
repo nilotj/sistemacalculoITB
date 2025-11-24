@@ -1,0 +1,7 @@
+{
+  "name": "CalcITB - Saúde Vascular",
+  "description": "Calculadora de Índice Tornozelo-Braquial (ITB) com análise assistida por IA para monitoramento de saúde vascular.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
