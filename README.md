@@ -1,8 +1,3 @@
-
-Com base na imagem do CalcITB - Saúde Vascular Inteligente, que calcula o Índice Tornozelo-Braquial (ITB), posso gerar um README para o seu projeto.
-
-Este README é estruturado para um projeto que provavelmente é um aplicativo, uma calculadora online ou uma ferramenta digital que implementa essa função.
-
 🩺 CalcITB: Saúde Vascular Inteligente
 Sobre o Projeto
 O CalcITB é uma ferramenta digital intuitiva e inteligente projetada para calcular o Índice Tornozelo-Braquial (ITB), um indicador diagnóstico crucial para a saúde vascular periférica.
@@ -55,11 +50,11 @@ Para clonar e rodar esta aplicação em seu ambiente local, siga os passos abaix
 Clone o repositório:
 
 Bash
-git clone https://aws.amazon.com/pt/what-is/repo/
+git clone https://github.com/nilotj/sistemacalculoITB.git
 Entre no diretório do projeto:
 
 Bash
-cd CalcITB-saude-vascular
+cd sistemacalculoITB
 Instale as dependências:
 
 Bash
@@ -74,4 +69,4 @@ A aplicação estará acessível em http://localhost:[Porta] (geralmente 3000).
 Contribuições são bem-vindas! Se você tiver sugestões ou quiser relatar um bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 📜 Licença
-Este projeto está licenciado sob a Licença [Nome da Licença - Ex: MIT].
+Este projeto está licenciado sob a Licença MIT.
