@@ -60,7 +60,7 @@ Para clonar e rodar esta aplicação em seu ambiente local, siga os passos abaix
     ```
 2.  **Entre no diretório do projeto:**
     ```bash
-    cd CalcITB-saude-vascular
+    cd sistemacalculoITB
     ```
 3.  **Instale as dependências:**
     ```bash
